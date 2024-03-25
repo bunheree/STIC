@@ -101,7 +101,7 @@ Question 02:
 * They allow software to be prepared for a new computer before it is built
 * They allow for backwards capability
 
-#### WEEK 09: COMBINATIONAL CIRCUITS
+#### WEEK 09: COMBINATIONAL CIRCUITS 💯
 
 **Question 01**: How many different Boolean functions of 4 variables are there?
 * 65536
@@ -120,12 +120,19 @@ Question 02:
 * 4-bit ALU 
 * 2-bit decoder
 
-#### WEEK 10: CENTRAL PROCESSING UNIT
+#### WEEK 10: CENTRAL PROCESSING UNIT 💯
 
-Question 01: 
+**Question 01**: Which of the following modules are found in a memory? Mark all that apply.
+* flip–flop
+* Multiplexer
+* Decoder
 
-Question 02: 
+**Question 02**: Which of the following are not combinational circuits? Mark all that apply.
+* CLOCK
+* MEMORY
 
-Question 03:
+**Question 03**: Which of the following decodes instructions?
+* CONTROL
 
-Question 04:
+**Question 04**: How many flip–flops are in the TOY-8 CPU?
+Answer maybe 148 or 149 ❓
