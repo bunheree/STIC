@@ -12,8 +12,8 @@
 
 **Question 02:** Suppose that an array of strings contains ["blueberry", "chocolate", "coconut", "coffee", "mint", "strawberry", "vanilla"]. How many compares are used for a successful search for "mint" with binary/sequential search?
 
-* binary search - 3 ✅
-* sequential search 4 - 3 - wrong
+* binary search - 3
+* sequential search 5
 
 **Question 03:** Which of the following running times for a program sorting N 10-character strings is consistent with the hypothesis that the program is using insertion sort? Mark all that apply.
 
