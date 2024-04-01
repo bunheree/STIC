@@ -22,4 +22,4 @@
 
 **Question 05**: Suppose that the following sequence of instructions is loaded into memory locations 10-16: 10: 7C0A 11: 7101 12: 7201 13: 1222 14: 2CC1  15: DC13  16: 0000 and you set the PC to 10 and press RUN. Give the decimal number represented by the contents of R[2] when the machine halts.
 
-* 11, 12, 16 ??
+* 1024
