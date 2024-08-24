@@ -9,6 +9,7 @@
 * They make it simpler to support iteration
 * They arise naturally in many applications
 * Implementations can take advantage of ordering to gain efficiency
+* They allow for useful extensions to the API
 
 **Question 02:** Of the following, which is the most important reason not to use a linked list for a symbol-table implementation?
 
