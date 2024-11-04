@@ -17,8 +17,9 @@
 
 **Question 03**: Which of the following are (approximately) true of your cellphone, as compared to von Neumann's EDVAC? Mark all that apply. (0.666)
 
-* Millions of times smaller ✅
-* ❓
+* Millions of times smaller
+* Millions of times faster
+* Millions of times more memory
 
 **Question 04**: Which of the following are true about virtual machines? Mark all that apply.
 
